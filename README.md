@@ -5,5 +5,3 @@
 * Arkanoid 11/34 lines
 
 Author: Krzysztof Cieslak
-
-Linux only.
